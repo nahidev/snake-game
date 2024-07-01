@@ -31,7 +31,11 @@
     - Haz clic en `Finish`.
 
 ### Ejecutar el juego
+#### Opción 1
+1. Descargar el ejecutable Snake.jar.
+2. Hacer clic en el archivo y abrir.
 
+#### Opción 2
 1. En el Explorador de proyectos, navega hasta `src/snake`.
 2. Haz clic derecho en `SnakeGame.java` y selecciona `Run As` > `Java Application` o `Run SnakeGame`.
 
